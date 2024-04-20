@@ -1,0 +1,21 @@
+[Sat, 20 Apr 2024 15:49:15 +0700] [localhost] [::1] [Warning(2): Undefined array key 18] [FILE: /includes/core/filesystem_functions.php] [LINE: 733] [TRACE:]
+#1  LINE: 369   FILE: /index.php
+#2  LINE: 362   FILE: /modules/news/funcs/main.php
+#3  LINE: 378   FILE: /themes/website_tintuc/theme.php
+#4  LINE: 180   FILE: /includes/core/user_functions.php
+#5  LINE: 278   FILE: /modules/news/blocks/module.block_newscenter.php
+#6  LINE: 202   FILE: /modules/news/blocks/module.block_newscenter.php
+
+[Sat, 20 Apr 2024 15:49:15 +0700] [localhost] [::1] [Warning(2): Undefined array key 18] [FILE: /includes/core/filesystem_functions.php] [LINE: 734] [TRACE:]
+#1  LINE: 369   FILE: /index.php
+#2  LINE: 362   FILE: /modules/news/funcs/main.php
+#3  LINE: 378   FILE: /themes/website_tintuc/theme.php
+#4  LINE: 180   FILE: /includes/core/user_functions.php
+#5  LINE: 278   FILE: /modules/news/blocks/module.block_newscenter.php
+#6  LINE: 202   FILE: /modules/news/blocks/module.block_newscenter.php
+
+[Sat, 20 Apr 2024 16:37:54 +0700] [localhost] [::1] [Warning(2): exif_read_data(baner.png): File not supported] [FILE: /vendor/vinades/nukeviet/Files/Upload.php] [LINE: 1076] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+#2  LINE: 73    FILE: /admin/upload/upload.php
+#3  LINE: 1076  FILE: /vendor/vinades/nukeviet/Files/Upload.php
+
