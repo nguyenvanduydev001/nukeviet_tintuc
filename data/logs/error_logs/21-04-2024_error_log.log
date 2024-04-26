@@ -1,0 +1,5 @@
+[Sun, 21 Apr 2024 12:22:19 +0700] [localhost] [::1] [Warning(2): exif_read_data(anh17.png): File not supported] [FILE: /vendor/vinades/nukeviet/Files/Upload.php] [LINE: 1076] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+#2  LINE: 144   FILE: /modules/banners/admin/edit_banner.php
+#3  LINE: 1076  FILE: /vendor/vinades/nukeviet/Files/Upload.php
+

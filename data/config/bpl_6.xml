@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>6</id>
+  <lang></lang>
+  <title>Giữa_2</title>
+  <form>sequential</form>
+  <width>795</width>
+  <height>72</height>
+  <banners>
+    <banners_item>
+      <id>6</id>
+      <title>Panasonic</title>
+      <clid>1</clid>
+      <file_name>chuyen-trang-pa_898_800_1.png</file_name>
+      <imageforswf>chuyen-trang-pa_898_800.png</imageforswf>
+      <file_ext>webp</file_ext>
+      <file_mime>image/webp</file_mime>
+      <file_width>780</file_width>
+      <file_height>310</file_height>
+      <file_alt></file_alt>
+      <file_click>https://dienmaycholon.vn/panasonic</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1713679686</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

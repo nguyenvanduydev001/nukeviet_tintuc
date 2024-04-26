@@ -12,7 +12,7 @@
       <title>Mid-page advertisement</title>
       <clid>1</clid>
       <file_name>webnhanh.jpg</file_name>
-      <imageforswf></imageforswf>
+      <imageforswf>anh17.png</imageforswf>
       <file_ext>png</file_ext>
       <file_mime>image/jpeg</file_mime>
       <file_width>575</file_width>
@@ -21,7 +21,7 @@
       <file_click>http://webnhanh.vn</file_click>
       <target>_blank</target>
       <bannerhtml></bannerhtml>
-      <publ_time>1620048540</publ_time>
+      <publ_time>1713577200</publ_time>
       <exp_time>0</exp_time>
     </banners_item>
   </banners>
