@@ -1,0 +1,26 @@
+[Sun, 05 May 2024 10:18:14 +0700] [localhost] [::1] [Warning(2): exif_read_data(banner_summer.png): File not supported] [FILE: /vendor/vinades/nukeviet/Files/Upload.php] [LINE: 1076] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+#2  LINE: 73    FILE: /admin/upload/upload.php
+#3  LINE: 1076  FILE: /vendor/vinades/nukeviet/Files/Upload.php
+
+[Sun, 05 May 2024 10:18:46 +0700] [localhost] [::1] [Notice(8): Only variables should be passed by reference] [FILE: /modules/nvform/admin/form_content.php] [LINE: 159] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+
+[Sun, 05 May 2024 10:19:56 +0700] [localhost] [::1] [Warning(2): Undefined array key "question_choices_extend"] [FILE: /modules/nvform/admin/question_content.php] [LINE: 311] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+
+[Sun, 05 May 2024 10:39:31 +0700] [localhost] [::1] [Warning(2): Undefined array key "form_report_type_email"] [FILE: /modules/nvform/admin/form_content.php] [LINE: 183] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+
+[Sun, 05 May 2024 10:39:31 +0700] [localhost] [::1] [Warning(2): Undefined array key "listmail"] [FILE: /modules/nvform/admin/form_content.php] [LINE: 184] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+
+[Sun, 05 May 2024 10:39:31 +0700] [localhost] [::1] [Warning(2): Undefined array key "group_email"] [FILE: /modules/nvform/admin/form_content.php] [LINE: 345] [TRACE:]
+#1  LINE: 182   FILE: /admin/index.php
+
+[Sun, 05 May 2024 10:39:31 +0700] [localhost] [::1] [Error(1): Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in D:\University\Nam3_2\Cong_nghe_web\nukeviet\modules\nvform\admin\form_content.php:345
+Stack trace:
+#0 D:\University\Nam3_2\Cong_nghe_web\nukeviet\modules\nvform\admin\form_content.php(345): in_array(1, NULL)
+#1 D:\University\Nam3_2\Cong_nghe_web\nukeviet\admin\index.php(182): require('D:\\University\\N...')
+#2 {main}
+  thrown] [FILE: /modules/nvform/admin/form_content.php] [LINE: 345]
